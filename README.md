@@ -1,6 +1,6 @@
 # Music Player App
 
-This app is provides a seamless music listening experience on your Android device.
+This app provides a seamless music listening experience on your Android device. Displays and allows user to select from and play music files from the /sdcard/Music folder.
 
 This app follows professional standards, utilizing the Model-View-ViewModel (MVVM) architectural pattern and Data Binding to maintain a clean and efficient source code.
 
